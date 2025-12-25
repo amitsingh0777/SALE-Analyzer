@@ -8,7 +8,7 @@ This project analyzes sales data for multiple products by calculating revenue, c
 
 The project is ideal for students and beginners learning data analysis with Python.
 
-✨ Features
+Features
 
 -Sales dataset creation using Pandas
 -Revenue, cost, and profit calculation
